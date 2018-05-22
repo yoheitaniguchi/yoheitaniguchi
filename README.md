@@ -1,5 +1,5 @@
+![title](./source/avatar-fallback.png)
 
-![](./source/avatar-fallback.png)
 ## Usage
 
 Install Node.js, then:
