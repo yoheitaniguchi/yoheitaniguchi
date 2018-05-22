@@ -31,6 +31,10 @@ const items = [
 		url: 'https://twitter.com/yopeyt2'
 	},
 	{
+		label: 'Home Town Map',
+		url: 'https://wmap.saikazaki.wakayama.jp'
+	},
+	{
 		label: '---',
 		action() {
 		}

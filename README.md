@@ -1,3 +1,5 @@
+
+![](./source/avatar-fallback.png)
 ## Usage
 
 Install Node.js, then:
