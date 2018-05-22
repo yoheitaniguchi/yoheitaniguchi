@@ -1,6 +1,6 @@
 {
 	"name": "yoheitaniguchi",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"description": "",
 	"license": "MIT",
 	"repository": "yoheitaniguchi/yoheitaniguchi",
@@ -10,7 +10,7 @@
 		"url": ""
 	},
 	"bin": {
-		"yoheitaniguchi": "source/cli.js"
+		"yoheitaniguchi": "./source/cli.js"
 	},
 	"engines": {
 		"node": ">=8"
